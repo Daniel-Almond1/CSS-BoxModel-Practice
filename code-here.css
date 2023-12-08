@@ -1,12 +1,32 @@
 #classic {
+    text-align: justify;
+    padding: 1em;
+    font-weight: 550;
 
+    
+    
 }
 
 #modern {
-
+    justify-content: center;
+    padding: 1em;
+    text-align: center;
+    background-color: gold;
+    box-shadow: 5px 5px 3px -3px #00000030;
 }
 
 #impact {
+    background-color: rgb(87, 236, 139);
+    border: 5px solid black;
+    outline: 5px solid black;
+    padding: 1.5em;
+    text-align: center;
+    outline-offset: -15px;
+    box-shadow: 5px 5px 3px -3px #00000030;
+    justify-content: center;
+    font-family: roboto;
+    font-weight: 400;
+    
 
 }
 
